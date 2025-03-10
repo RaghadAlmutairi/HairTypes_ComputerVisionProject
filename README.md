@@ -12,7 +12,7 @@ This application uses an advanced deep learning model to classify hair types bas
 📓 TheBestModel_DenseNet121.ipynb # Jupyter notebook for training
 ```
 
-📥 Download the Model
+## 📥 Download the Model
 The pre-trained DenseNet model (advanced_densenet_model.h5) can be downloaded from Google Drive:
 
 🔗 [Download Model from Google Drive](https://drive.google.com/file/d/1YMIb1eJPndqXFQGNbr9ESimH_Uo9uPjh/view?usp=sharing)
