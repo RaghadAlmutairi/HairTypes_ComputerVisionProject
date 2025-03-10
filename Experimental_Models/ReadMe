@@ -1,0 +1,11 @@
+# Experimental Models
+
+This folder contains different deep learning models experimented with for hair type classification. These models include:
+
+- **CNN (Convolutional Neural Networks):** Basic deep learning architecture tested for classification.
+- **VGG (Visual Geometry Group Network):** A deeper architecture used for comparison.
+- **DenseNet (Densely Connected Convolutional Networks):** The most optimized model used in the final implementation.
+
+Each model was trained and evaluated to determine the best performing one for the final application.
+
+📌 *For details on the best-performing model, check the main project README.*
