@@ -1,0 +1,11 @@
+## NewTest_dataset
+
+This folder contains a set of test images used to evaluate the performance of the trained models. It is designed for validating the hair type classification accuracy before deployment.
+
+### How to Use:
+1. Add new test images to this folder.
+2. Ensure images are in a compatible format (e.g., `.jpg`, `.png`).
+3. Modify the evaluation script to load and analyze images from this dataset.
+4. Run model inference to assess performance.
+
+📌 *For best results, ensure test images match the quality and resolution of training data.*
